@@ -1,7 +1,7 @@
 - 👋 小山田進　です。
 - 👀 教育とICTに興味があります。
 - 🌱 現在、AI, R, Python と GitHub を学んでいます。
-- 💞️ 情報教育のためのツールの作成しています。
+- 💞️ 情報教育のためのツールを作成しています。
 <!---
 - 👋 Hi, I’m @oyasus.
 - 👀 I’m interested in education and IT.
