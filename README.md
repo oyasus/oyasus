@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oyasus.
-- 👀 I’m interested in education.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on teacher.
+- 👀 I’m interested in education and IT.
+- 🌱 I’m currently learning AI, R and Python.
+- 💞️ I will make teaching tools on computer.
 - 📫 How to reach me ...prease send e-mail.
 
 <!---
